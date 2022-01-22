@@ -1,3 +1,5 @@
+PRUEBA REALIZADA EN PACIOLI:
+
 Tiempo para longitud 13 con Python:
 Start
 Number of generated k-mers: 67108864
@@ -33,3 +35,41 @@ Finish!
 real	0m2,255s
 user	0m2,252s
 sys	0m0,001s
+
+PRUEBA REALIZADA EN LA IMAGEN DEL CONTENEDOR EN PACIOLI:
+
+Tiempo para longitud 13 con Python:
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m33,532s
+user	1m33,159s
+sys	0m0,186s
+
+Tiempo para longitud 13 con C++:
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,984s
+user	0m0,805s
+sys	0m0,123s
+
+Tiempo para longitud 14 con Python:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m7,527s
+user	6m6,756s
+sys	0m0,183s
+
+Tiempo para longitud 14 con C++:
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m3,008s
+user	0m2,845s
+sys	0m0,117s
